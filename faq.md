@@ -6,7 +6,7 @@ featured-img: faq
 ---
 
 ### Why this course?
-This course is 100% free! We also use a different training model as opposed to classroom training which can be mundane and also unfair as it doesn't go by everyone's pace. With AI Adventures, you have access to a self paced course which covers the fundamentals of python with a strong focus on implementation. 
+We use a different training model as opposed to classroom training which can be mundane and also unfair as it doesn't go by everyone's pace. With AI Adventures, you have access to a self paced course which covers the fundamentals of python with a strong focus on implementation. 
 
 ### What will you learn by the end of the course?
 By the end of this course, you will be able to write simple but useful python programs and also be confident in your ability to learn new technologies and concepts.
@@ -28,7 +28,7 @@ We will be posting our content on this [telegram channel]({{ site.telegram_chann
 
 
 ### How to register for the course?
-For those who have not yet registered, use this [google form](redirects/registration_form.html). Stay tuned for the time table and details! 
+For those who have not yet registered, use this [google form](https://forms.gle/DdVgmyuEBA46kH2PA). Stay tuned for the time table and details! 
 
 ### What are the steps taken in an industrial machine learning project?
 We have an entire [blog post]({{ site.baseurl }}/pipeline) which covers this topic!

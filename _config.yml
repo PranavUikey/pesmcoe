@@ -23,7 +23,7 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'Prerequisites', link: '/prerequisites'}
   - {name: 'Resources', link: '/resources'}
-  - {name: 'Roadmap', link: '/roadmap'}
+  # - {name: 'Roadmap', link: '/roadmap'}
   - {name: 'Rankings', link: '/rankings'}
   # - {name: 'News', link: '/news'}
   # - {name: 'Pipeline', link: '/pipeline'}
@@ -55,24 +55,24 @@ quiz_2_deadline: 3th January
 quiz_2_time: 7:00 PM
 
 assignment_2_start: 3rd January
-assignment_2_deadline: 3th January
+assignment_2_deadline: 3rd January
 assignment_2_time: 7:00 PM
 
-quiz_3_start: 3rd January
-quiz_3_deadline: 3th January
-quiz_3_time: 7:00 PM
+quiz_3_start: 4th January
+quiz_3_deadline: 4th January
+quiz_3_time: 12:00 PM
 
-assignment_3_start: 3rd January
+assignment_3_start: 4th January
 assignment_3_deadline: 4th January
 assignment_3_time: 12:00 PM
 
-quiz_4_start: 3rd January
+quiz_4_start: 4th January
 quiz_4_deadline: 4th January
 quiz_4_time: 12:00 PM
 
-assignment_4_start: 3rd January
+assignment_4_start: 4th January
 assignment_4_deadline: 4th January
-assignment_4_time: 7:00 PM
+assignment_4_time: 12:00 PM
 
 telegram_channel_link: https://t.me/joinchat/AAAAAFev1cEet7IiSJlBqg
 

@@ -7,7 +7,7 @@ featured-img: austris-augusts-52p1K0d0euM-unsplash
 
 ### The top 5 performing students of your batch will be featured here!
 
-Check [this](https://docs.google.com/spreadsheets/d/1kmhqT7eSED8WskZJjmtWPdegb9GhoaR4gy3u5v7A0Ho/edit?ts=5dc91865) link to see where you stand in the ongoing batch.
+Check [this](https://docs.google.com/spreadsheets/d/1tjHzuwhm0DdRnhwwBa-0dqQmXS37IumFmgDatS07dOc/edit?usp=sharing) link to see where you stand in the ongoing batch.
 
 <!-- #### Batch 1 (11 November 2019)
 1. Chinmay Mahagaonkar
