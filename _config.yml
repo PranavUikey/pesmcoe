@@ -1,0 +1,130 @@
+# SITE CONFIGURATION
+title: Python for Data Science # your site title
+author: AI Adventures # You :P
+description: > # Meta description of Homepage
+  Start building useful real world applications by learning to code
+  from this free 4-day course on Python :)
+baseurl: "/pesmcoe" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+future: true
+# SEO PLUGIN
+social:
+  name: AI Adventures
+  links:
+    # - https://twitter.com/BenBalter
+    # - https://www.facebook.com/ben.balter
+    - https://www.linkedin.com/company/aiadventures/
+    # - https://plus.google.com/+BenBalter
+    - https://github.com/Ai-Adventures
+    # - https://keybase.io/benbalter
+
+# THEME SETTINGS
+navigation: # Navigation links
+  - {name: 'Home', link: '/'}
+  - {name: 'Prerequisites', link: '/prerequisites'}
+  - {name: 'Resources', link: '/resources'}
+  - {name: 'Roadmap', link: '/roadmap'}
+  - {name: 'Rankings', link: '/rankings'}
+  # - {name: 'News', link: '/news'}
+  # - {name: 'Pipeline', link: '/pipeline'}
+  # - {name: 'Careers', link: '/careers'}
+  - {name: 'FAQ', link: '/faq'}
+  # - {name: 'Contact', link: '/contact'}
+
+tagline:
+  Python is the way!
+
+batch_name: Weekday
+
+quiz_1: https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_days/Quiz-1.ipynb?flush_cache=true
+quiz_2: https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_days/Quiz-2.ipynb?flush_cache=true
+assignment_2: https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_days/Assignment-2.ipynb?flush_cache=true
+quiz_3: https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_days/Quiz-3.ipynb?flush_cache=true
+assignment_3: https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_days/Assignment-3.ipynb?flush_cache=true
+quiz_4: https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_days/Quiz-4.ipynb?flush_cache=true
+assignment_4: https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_days/Assignment-4.ipynb?flush_cache=true
+homework: https://nbviewer.jupyter.org/github/Ai-Adventures/python4DS/blob/master/assignments_days/Homework.ipynb?flush_cache=true
+
+# Deadlines
+quiz_1_start: 3rd January
+quiz_1_deadline: 3th January
+quiz_1_time: 7:00 PM
+
+quiz_2_start: 3rd January
+quiz_2_deadline: 3th January
+quiz_2_time: 7:00 PM
+
+assignment_2_start: 3rd January
+assignment_2_deadline: 3th January
+assignment_2_time: 7:00 PM
+
+quiz_3_start: 3rd January
+quiz_3_deadline: 3th January
+quiz_3_time: 7:00 PM
+
+assignment_3_start: 3rd January
+assignment_3_deadline: 4th January
+assignment_3_time: 12:00 PM
+
+quiz_4_start: 3rd January
+quiz_4_deadline: 4th January
+quiz_4_time: 12:00 PM
+
+assignment_4_start: 3rd January
+assignment_4_deadline: 4th January
+assignment_4_time: 7:00 PM
+
+telegram_channel_link: https://t.me/joinchat/AAAAAFev1cEet7IiSJlBqg
+
+
+hero_img: posts/background.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
+
+email: your-email@domain.com # email for form submission
+
+# twitter_username: jan_czizikow # replace with your_twitter_username or comment to remove link from footer
+github_username:  Ai-Adventures # replace with your_github_username or comment to remove link from footer
+instagram_username:  aiadventures.pune # replace with your_instagram_username or comment to remove link from footer
+linkedin_username: aiadventures
+
+# disqus:
+#   shortname: janczizikow # to enable comments replace with your_disqus_shortname
+
+# google_tag_manager: GTM-XXXXXXX # Uncomment to enable GTM. Replace GTM-XXXXXXX with your GTM container ID
+
+service_worker: true
+
+# BUILD SETTINGS
+markdown: kramdown
+highlighter: rouge # or pygments or null
+# theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
+exclude:
+  - README.md
+  - node_modules
+  - script
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - npm-debug.log
+  - gulpfile.js
+  - sleek.jpg
+
+include: ['_pages']
+permalink: /:title/
+
+compress_html:
+  clippings: all
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-ftp
+
+collections: 
+  applications:
+    output: true
+
+# username: UserName
+# server_url: ftp.myserver.com
+# remote_dir: /public_html
