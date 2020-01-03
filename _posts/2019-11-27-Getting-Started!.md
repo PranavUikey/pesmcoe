@@ -16,7 +16,7 @@ This website is where you will find most of our material.
 - Home: Here you will find some blog posts (like this one) which will help answer some key questions most people have about machine learning. 
 - Prerequisites: Install Anaconda! A must have for data scientists.
 - Resources: The tab where you will find all the content you are supposed to go through.
-- Roadmap: This section provides a timeline of all the different topics covered in this course. 
+<!-- - Roadmap: This section provides a timeline of all the different topics covered in this course.  -->
 - Rankings: Confident about your skills? Now is your time to shine! You will find the best performing students of past batches in this section. Want to add your name to it? Make sure you finish in the top 5.
 - FAQs: This section will answer all of the common doubts or queries which you may have regarding this course.
 
