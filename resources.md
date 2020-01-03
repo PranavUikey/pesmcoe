@@ -22,7 +22,7 @@ published: True
 - [Quiz 2]({{ site.quiz_2 }})
 - [Assignment 2]({{ site.assignment_2 }})
 - Deadline:- {{ site.quiz_2_deadline }} ({{ site.quiz_2_time }})
-- [Homework]({{ site.homework }})
+<!-- - [Homework]({{ site.homework }}) -->
 
 *** 
 
